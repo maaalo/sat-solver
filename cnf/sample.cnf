@@ -1,0 +1,8 @@
+p cnf 9 7  ; Number of variables and clauses
+1 2 0      ; a or b
+9 3 0      ; c or d
+1 8 4 0    ; a or e or f
+-2 -4 5 0  ; -b or -f or g
+-4 6 0     ; -f or h
+-2 -6 7 0  ; -b or h or i
+-5 -7 0    ; -g or -i
